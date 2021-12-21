@@ -1,0 +1,9 @@
+claim\newssite\NewssiteApplication.class
+claim\newssite\entities\User.class
+claim\newssite\controllers\BlogController.class
+claim\newssite\entities\Blog.class
+claim\newssite\controllers\UserController.class
+claim\newssite\config\DatabaseConfig.class
+claim\newssite\repositories\UserRepository.class
+claim\newssite\repositories\BlogRepository.class
+claim\newssite\ServletInitializer.class
